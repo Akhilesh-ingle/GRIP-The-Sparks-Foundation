@@ -16,11 +16,12 @@ This repository consist of the tasks given during my internship at **The Sparks 
 ## Task 1 - Predicting Using Supervised Machine Learning
 
 In this task we will predict the percentage score that a student is expected to score based on the number of hours they studied. This task involves two variables, 'Hours' and 'Percentage' and this task will be done by using simple linear regression as it involves two variables only.
-**Source of Data -** 
+**Source of Data -** http://bit.ly/w-data 
 
 ### Problem Statement:
 
   What will be the predicted score if a student study for 9.25 hours in a day?
 
 To see the implementation video:
-[Youtube]()
+
+[Youtube](https://youtu.be/nrVwcUr57wg)
