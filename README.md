@@ -27,3 +27,10 @@ In this task we will predict the percentage score that a student is expected to 
 To see the implementation video:
 
 [Youtube](https://youtu.be/nrVwcUr57wg)
+
+## Task 2 - Prediction Using Unsupervised Machine Learning
+
+In this task we will have to predict the optimum number of clusters and represent it visually. This task will be done by K-Means clustering.
+**Source of Data -** https://bit.ly/3kXTdox
+
+To see the implementation video:
